@@ -4,6 +4,8 @@ Testing image ssr with redux and redux-toolkit in a NextJS project.
 
 Toying with redux-persist and/or next-redux-wrapper as well.
 
+`yarn dev` to run.
+
 Research links:
 
 -   <https://www.youtube.com/watch?v=iBUJVy8phqw>
