@@ -1,34 +1,20 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# [next-redux-toolkit-demo](https://github.com/discretegames/next-redux-toolkit-demo)
 
-## Getting Started
+Testing image ssr with redux and redux-toolkit in a NextJS project.
 
-First, run the development server:
+Toying with redux-persist and/or next-redux-wrapper as well.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+Research links:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+-   <https://www.youtube.com/watch?v=iBUJVy8phqw>
+-   <https://www.youtube.com/watch?v=QIqvxQnPOCM>
+-   <https://stackoverflow.com/questions/60626451/is-using-redux-with-next-js-an-anti-pattern>
+-   <https://stackoverflow.com/questions/61705940/best-way-to-store-file-objects-in-react-redux-store>
+-   <https://stackoverflow.com/questions/64646240/can-i-store-an-array-of-class-instances-in-redux>
+-   <https://github.com/kirill-konshin/next-redux-wrapper>
+-   <https://redux.js.org/usage/server-rendering/#redux-on-the-server>
+-   <https://dev.to/waqasabbasi/server-side-rendered-app-with-next-js-react-and-redux-38gf>
+-   <https://github.com/vercel/next.js/tree/canary/examples/with-redux>
+-   <https://stackoverflow.com/questions/37195590/how-can-i-persist-redux-state-tree-on-refresh>
+-   <https://redux.js.org/faq/design-decisions>
+-   <https://redux.js.org/style-guide/#do-not-put-non-serializable-values-in-state-or-actions>
